@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "I try to hack stuff.",
     email: "yossifqassim@@gmail.com",
     linkedin: "yosif-qasim",
-    github: "yosif_qasim",
+    github: "yosif-qasim",
     instagram: "yosif_qasim",
   },
   projects: [
@@ -20,6 +20,7 @@ const CONFIG = {
   blog: {
     title: "yosif_qasim",
     description: "welcome to my Blog!",
+    theme : "auto",
   },
 
   // CONFIG configration (required)

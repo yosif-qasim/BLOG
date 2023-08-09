@@ -47,7 +47,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: fale,
+    enable: false,
     config: {
       repo: "yosif-qasim/BLOG",
       "issue-term": "og:title",

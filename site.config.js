@@ -6,7 +6,7 @@ const CONFIG = {
     role: "pentester",
     bio: "I try to hack stuff.",
     email: "yossifqassim@@gmail.com",
-    linkedin: "yosif-qasim",
+    linkedin: "yosif-qassim",
     github: "yosif-qasim",
     instagram: "yosif_qasim",
   },

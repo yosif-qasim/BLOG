@@ -1,25 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    name: "Yosif",
+    image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "pentester",
+    bio: "I try to hack stuff.",
+    email: "yossifqassim@@gmail.com",
+    linkedin: "yosif_qasim",
+    github: "yosif_qasim",
+    instagram: "yosif_qasim",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `yosif_qasim`,
+      href: "https://github.com/yosif-qasim,
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "yosif_qasim",
+    description: "welcome to my Blog!",
   },
 
   // CONFIG configration (required)
@@ -47,11 +47,11 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: fale,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "yosif-qasim/BLOG",
       "issue-term": "og:title",
-      label: "💬 Utterances",
+      label: "💬 BLOG",
     },
   },
   cusdis: {
